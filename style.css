@@ -1,0 +1,17 @@
+.escola{
+    background-image: linear-gradient(#000000,#00eb5a);
+    color: aliceblue 
+    display:flex:
+}
+.escola-conteudo{
+    width: 35%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.escola-conteudo{
+    width: 25%;
+}
+.escola-conteudo{
+    padding: 24px 0;
+}
